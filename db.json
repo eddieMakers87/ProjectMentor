@@ -1,0 +1,60 @@
+{
+  "posts": [
+    {
+      "title": "aaa",
+      "price": "bbb",
+      "descr": "ccc",
+      "image": "dddd",
+      "id": 3
+    },
+    {
+      "title": "sdfg",
+      "price": "dfgh",
+      "descr": "dfgh",
+      "image": "gfhy",
+      "id": 4
+    },
+    {
+      "title": "11",
+      "price": "22",
+      "descr": "33",
+      "image": "44",
+      "id": 5
+    },
+    {
+      "title": "dfgarg",
+      "price": "dfgerg",
+      "descr": "dgrqe",
+      "image": "deegr",
+      "id": 6
+    },
+    {
+      "title": "xgbsfgh",
+      "price": "sdgsreg",
+      "descr": "sdgerg",
+      "image": "sdbhwrthw",
+      "id": 7
+    },
+    {
+      "title": "sdgfsrt",
+      "price": "sdgwrt",
+      "descr": "sdgwer",
+      "image": "sdgwer",
+      "id": 8
+    },
+    {
+      "title": "sgwerhg",
+      "price": "sgwert",
+      "descr": "sergwer",
+      "image": "sdgqer",
+      "id": 9
+    },
+    {
+      "title": "sdrgwrt",
+      "price": "sdhfgwrth",
+      "descr": "sgrwer",
+      "image": "srdgwer",
+      "id": 10
+    }
+  ]
+}
